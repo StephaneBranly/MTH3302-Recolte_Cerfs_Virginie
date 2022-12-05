@@ -30,3 +30,8 @@ Manifest.toml
 .env.test.local
 .env.production.local
 .ipynb_checkpoints/notebook_prediction-checkpoint.ipynb
+output_avec_armes26.csv
+output_sans_annees.csv
+output_sans_années.csv
+tests.ipynb
+.ipynb_checkpoints/tests-checkpoint.ipynb

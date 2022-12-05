@@ -35,3 +35,4 @@ output_sans_annees.csv
 output_sans_années.csv
 tests.ipynb
 .ipynb_checkpoints/tests-checkpoint.ipynb
+.~notebook_prediction.ipynb

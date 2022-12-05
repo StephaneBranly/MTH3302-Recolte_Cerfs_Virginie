@@ -20,6 +20,7 @@ Année,Zone,Engin,Cerfs
 1999,07,Arc,1062
 1999,08,Carabine,738
 1999,08,ACB,1295
+1999,08,Arc,269
 1999,09,Arc,110
 1999,09,Carabine,1011
 1999,09,Indéterminé,2
@@ -1221,7 +1222,7 @@ Année,Zone,Engin,Cerfs
 2017,07,Arbalète,1694
 2017,07,Carabine,7
 2017,07,Fusil,1459
-2017,07,Arc,43
+2017,07,Arc,95
 2017,08,ACB,2024
 2017,08,Arbalète,507
 2017,08,Arc,44
@@ -1246,6 +1247,7 @@ Année,Zone,Engin,Cerfs
 2017,12,Arbalète,0
 2017,12,Carabine,14
 2017,13,Carabine,3
+2017,15,Arbalète,3
 2017,15,Carabine,60
 2017,15,Fusil,1
 2017,20,Carabine,3073
@@ -1294,7 +1296,7 @@ Année,Zone,Engin,Cerfs
 2018,07,Arc,71
 2018,07,Carabine,12
 2018,07,Fusil,1256
-2018,07,ACB,190
+2018,07,ACB,445
 2018,08,ACB,1972
 2018,08,Arbalète,516
 2018,08,Arc,35
@@ -1328,6 +1330,9 @@ Année,Zone,Engin,Cerfs
 2018,27,Arbalète,550
 2018,27,Arc,14
 2018,27,Carabine,0
+2018,28,ACB,16
+2018,28,Arbalète,50
+2018,28,Arc,2
 2019,01,ACB,1
 2019,01,Arbalète,42
 2019,01,Arc,2
@@ -1416,7 +1421,7 @@ Année,Zone,Engin,Cerfs
 2020,04,Arc,30
 2020,04,Carabine,2086
 2020,04,Fusil,134
-2020,05,ACB,24
+2020,05,ACB,39
 2020,05,Arbalète,266
 2020,05,Arc,13
 2020,05,Carabine,1912
@@ -1458,7 +1463,7 @@ Année,Zone,Engin,Cerfs
 2020,15,ACB,32
 2020,15,Arbalète,388
 2020,15,Arc,39
-2020,15,Carabine,1
+2020,15,Carabine,41
 2020,15,Fusil,81
 2020,20,ACB,1
 2020,20,Carabine,2301

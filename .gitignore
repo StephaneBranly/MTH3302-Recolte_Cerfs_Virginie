@@ -36,3 +36,5 @@ output_sans_années.csv
 tests.ipynb
 .ipynb_checkpoints/tests-checkpoint.ipynb
 .~notebook_prediction.ipynb
+.ipynb_checkpoints/notebook_prediction_v3_select_k_features-checkpoint.ipynb
+data/output_min_error7.csv
